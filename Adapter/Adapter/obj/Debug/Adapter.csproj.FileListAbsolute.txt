@@ -1,0 +1,18 @@
+C:\Users\Student\Desktop\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Student\Desktop\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Student\Desktop\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Student\Desktop\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Student\Desktop\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Student\Documents\Visual Studio 2013\Projects\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\Student\Documents\Visual Studio 2013\Projects\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2013\Projects\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Student\Documents\Visual Studio 2013\Projects\Adapter\Adapter\bin\Debug\Adapter.pdb
+I:\Adapter\Adapter\bin\Debug\Adapter.exe.config
+I:\Adapter\Adapter\obj\Debug\Adapter.exe
+I:\Adapter\Adapter\obj\Debug\Adapter.pdb
+I:\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+I:\Adapter\Adapter\bin\Debug\Adapter.exe
+I:\Adapter\Adapter\bin\Debug\Adapter.pdb

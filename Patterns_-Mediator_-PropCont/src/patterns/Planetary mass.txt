@@ -1,0 +1,9 @@
+Dwarf planet < 0.1 M[Earth] < 
+Terrestial planet < 5–10 M[Earth] <
+Giant planet < 13 M[Jupiter] <
+Brown Dwarf < 0.08 M[Sun] <
+Star < 4-15 M[Sun] < Stellar Black Hole < etc.
+
+M[Earth] = 6*10^24
+M[Jupiter] = 2*10^27
+M[Sun] = 2*10^30

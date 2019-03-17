@@ -1,0 +1,9 @@
+c:\users\courses\documents\visual studio 2015\Projects\Strategy\Strategy\bin\Debug\Strategy.exe.config
+c:\users\courses\documents\visual studio 2015\Projects\Strategy\Strategy\bin\Debug\Strategy.exe
+c:\users\courses\documents\visual studio 2015\Projects\Strategy\Strategy\bin\Debug\Strategy.pdb
+c:\users\courses\documents\visual studio 2015\Projects\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+c:\users\courses\documents\visual studio 2015\Projects\Strategy\Strategy\obj\Debug\Strategy.exe
+c:\users\courses\documents\visual studio 2015\Projects\Strategy\Strategy\obj\Debug\Strategy.pdb
+E:\Strategy\Strategy\bin\Debug\Strategy.exe.config
+E:\Strategy\Strategy\obj\Debug\Strategy.exe
+E:\Strategy\Strategy\obj\Debug\Strategy.pdb
